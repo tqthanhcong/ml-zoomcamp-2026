@@ -11,6 +11,7 @@ Solutions and projects for the live 2026 cohort of DataTalks.Club's Machine Lear
 | 3. Machine Learning for Classification | `03-classification/homework.ipynb` | Complete |
 | 4. Evaluation Metrics for Classification | `04-evaluation/homework.ipynb` | Complete |
 | 6. Decision Trees and Ensemble Learning | `06-trees/homework.ipynb` | Complete |
+| Midterm Project | `midterm-project/` | Complete |
 
 ## Reproducing a homework notebook
 
